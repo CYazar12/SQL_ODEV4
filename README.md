@@ -15,7 +15,7 @@ SELECT DISTINCT replacement_cost FROM film;
 7) 20.99
 8) 24.99
 9) 11.99
-10)15.99
+10) 15.99
 11) 27.99
 12) 29.99
 13) 12.99
