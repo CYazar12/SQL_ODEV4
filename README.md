@@ -6,7 +6,7 @@ SELECT DISTINCT replacement_cost FROM film;
 
 
 #### "replacement_cost"
-1) 19.99-
+1) 19.99
 2) 25.99
 3) 13.99
 4) 10.99
