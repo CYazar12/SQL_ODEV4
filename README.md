@@ -1,0 +1,2 @@
+# SQL_ODEV4
+SQL Ödev 4 | DISTINCT ve COUNT
